@@ -16,7 +16,7 @@ Run-summaries include:
 
 ## Assignment Summaries
 
-### Brown_Problem1.pdf **THE1.sas**  
+### **Brown_Problem1.pdf** | *THE1.sas*  
 - Imported tab‑delimited data  
 - Ran PROC REG to model DI as a function of IQ  
 - Interpreted slope, R², confidence intervals  
